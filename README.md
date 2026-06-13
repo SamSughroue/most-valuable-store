@@ -29,5 +29,5 @@ File size: 744 MB (Stored locally, not on github, using .gitignore)
 - Matplotlib & Seaborn for visualizations (Potentially)
 
 ## Abbreviations 
-B2B - Business to Business
-B2C - Business to Consumer
+- B2B - Business to Business
+- B2C - Business to Consumer
