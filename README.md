@@ -27,3 +27,7 @@ File size: 744 MB (Stored locally, not on github, using .gitignore)
 ## Technologies Used
 - Python, Pandas, Jupyter Notebook
 - Matplotlib & Seaborn for visualizations (Potentially)
+
+## Abbreviations 
+B2B - Business to Business
+B2C - Business to Consumer
